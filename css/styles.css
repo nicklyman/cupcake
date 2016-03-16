@@ -1,0 +1,23 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.best {
+  font-family: fantasy;
+  color: pink;
+  background-color: black;
+  width: 800px;
+  text-align: center;
+  font-size: 60px;
+}
+
+img {
+  width: 800px;
+  height: auto;
+}
+
+p {
+  width: 800px;
+}
